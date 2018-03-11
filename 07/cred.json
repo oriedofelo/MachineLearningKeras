@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "inductive-arena-197610",
+  "private_key_id": "8bc01ce2506f5c4e840a40ad41211fbdf5a8f4b7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDIdZvH9gbKEpbE\ndvWQluk+e9i5WleatWmpqec1K0exmoowvLk/kpGh1K+08ccgLNLv5ZeKxN+NCYHO\nRhc7MSCBfrYcPuWjlH/2CkcaNv1TC0NrjOCkzQQS3osaED2sZDyXJGgQExtajRGc\nNhLndon8m7tbhxcG1WxEZ500ZLym0TP5lFy/T2jRcHLA0Q5FXSseytB+/wvSYvaP\nQ8L5D/28FiLLkaimdhDvqdOdwIv0MwH15h20lhGkIeNVoa5JE/VcIzZ0kiurovVk\nl79BgeWAO3ol2IjRguFJvz+IYvT5fQxe3eADAnx4sffxRs9xQLj+WwdKhWGdkACd\ntyGtTYmvAgMBAAECggEACeF00+62N6BM8CgmQyySbfMFeWAQ8LOVHrjHiGEMFUlX\nGxSM/lYyJCDrUZGX+BJdigJDbaKgm5S8DOJ641RblCZzwYFUKQj5JF6DUgZ4hsRd\nBrXDSObrbCauApM0XFqge0QJy75gBcmYSZ6HYK4AxS5ulhIFj4pWM3+hSbjWwlN3\nuZUYVneE4HUkvR/Dk2ir+hRwVLJ1W3RMqOLPTJJSeunVX1euQ5tFAx+1Dc3ngBh3\nKaw6LamRzj9fxfjaUQ5HDC9/nn2XuZxtb9YMZ+bZFcr2zZPR2xicopoAh1LnbC7f\nwilaXvKK/tbjskwlxTflzr7796t5ow3/WeV5ar1feQKBgQD6IkZRVMbxCVZpiVl4\nKjAQNOFsVpjJBuHADgDv688RapD6bRMOhey1aXSHRoEp9X4STxqhoMazIDkdUupv\n+ZzvndV6RKBthTy2jGzCoSZcgL2Cu5iJEHKew91m8xRYvqiKRKiGoQL2rfKxGCBs\nPgRlTkJnylOtrDkpcTwpPEGhrQKBgQDNKRqXkA42bf6FZ5xNZRh/DRCxSFO2X31L\nVSlYL5ks/kH1Xy1Zs5R7iTco4EWlTbh0l/iJRJFpkl8C0eAWI3YQMaWIJepvTscc\nMRl0IzQfhRoDT/FgVrN0U78ZK+y7UJmaxbhpLq2cPe5jJtN85oyT1BCxyCS1TQGW\n6VFQSP1cSwKBgQCDruOiEaWiY64QZXSqpFslTRGX/Yb13h+fAkBQDq62lom4rQ+p\nR6w0XU4xoVaChnFWpjp4+LFiwAYRgANX6+tI4qjuc46Z2dj6qbbgSAJwFH6wgp5t\nGjGdj7PRbQs7JTSJhlfKeJ2czDrGLNN06Llbs/WVupiPB+oX/TsU4loTCQKBgQCr\n29nVyqvNNpj2QZPyVVSO4W/xQig15om7uEwY/k5vHVI9bIw9zyv7zDbzu+M7lP6G\nVOOygUjaSe3jG9J+WRhGeoAyq6hVs4UhfZPX8MFyAfqHeck2LYrIUHsNZ/k39E2o\nFCblnV97OXnffx+8ShjKoOOXOZRed3J0a2BdQ7dRPwKBgQCBvRPsij+t7lnvGg2b\nmatY5cgTN/fTsRBB+tQqfHV7QFLjo0w/2vmK9F0kctSpCx1n9KSNXRWxKgGryzLM\nAxiepKp65yr3DtNywnuP3Fmg8YrIBpm9z7MlIuE3nfGANg0PTT4ELJ9HZNrzxGvm\n5qZy0+GoH3TUxlA3FkHt76EjEw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tensorflow-class@inductive-arena-197610.iam.gserviceaccount.com",
+  "client_id": "109080574999788308747",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tensorflow-class%40inductive-arena-197610.iam.gserviceaccount.com"
+}
